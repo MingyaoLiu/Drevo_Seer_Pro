@@ -1,7 +1,7 @@
 # Drevo_Seer_Pro
 
 ![My Keybaord](/Drevo%20Seer%20Pro%20Black%20and%20White.jpg)
-Bought a Drevo Seer Pro 60% keyboard with Gateron Red switch, best budget keyboard ever. Repo is for all resources about this keyboard, and me trying to hack it.
+Bought a Drevo Seer Pro 60% keyboard with Gateron Red switch, **best budget keyboard ever**. Repo is for all resources about this keyboard, and me trying to hack it.
 
 
 # Shortcut
