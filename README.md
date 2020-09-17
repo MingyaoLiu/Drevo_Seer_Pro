@@ -1,6 +1,6 @@
 # Drevo_Seer_Pro
 
-![My Keybaord](/Image%20from%20iOS.jpg)
+![My Keybaord](/Drevo%20Seer%20Pro%20Black%20and%20White.jpg)
 Bought a Drevo Seer Pro 60% keyboard with Gateron Red switch, best budget keyboard ever. Repo is for all resources about this keyboard, and me trying to hack it.
 
 
@@ -13,6 +13,7 @@ Now the right Arrow keys are locked in, so you no longer need to press Fn to use
 Now right Alt is left Arrow, you now press Fn + right  Alt to get right Alt.
 Confirm this state is preserved even when rebooted keyboard
 
+![Arrow Key Lock State](/Drevo%20Seer%20Pro%20Arrow%20Lock%20Activated.jpg)
 
 This is quite amazing, I was trying to get it into recovery mode to debug this keyboard, by pressing both shifts together, and I accidentally locked my arrow key. I first thought the FN got stuck, but I tried other keys that require Fn key like Del End, and they still require Fn to be pressed to activate. Then during my trying to reproduce this, I got the arrow keys unlocked again. took me an hour of testing to discovered this feature. 
 
